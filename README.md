@@ -24,5 +24,5 @@ Apiman -> localhost:8080/apimanui
 Keycloak -> localhost:8080/auth
 ```
 
-# Source
-The source is available on [GitHub](https://github.com/celsoagra/apiman).
+# Docker
+The source is available on [Docker Hub](https://hub.docker.com/r/celsoagra/apiman/).
